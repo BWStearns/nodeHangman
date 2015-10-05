@@ -1,0 +1,21 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "testhang"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hangman"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "brian",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
